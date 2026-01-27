@@ -1,0 +1,127 @@
+.indent {
+    text-indent: 25px;
+}
+
+.academic, .footnotes {
+    display: flex;
+}
+
+.primary {
+    position: relative;
+    margin: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 10.5pt;
+    padding: 0px 5px 0px 0px;
+    transition: font-size 2s;
+    /* color: #34A727; */
+    /* color: #823E07; */
+    /* color: #3B3636; */
+}
+
+.primary:hover {
+    font-size: 12.5pt;
+}
+
+.primarytext-1 {
+    min-width: 28.5vw;
+}
+
+.primarytext-2 {
+    /* padding: 5.25pt 0pt; */
+    min-width: 20vw;
+}
+
+.primarytext-3 {
+    min-width: 40.5vw;
+}
+
+.primarytext-4 {
+    min-width: 30vw;
+}
+
+.primarytext-5 {
+    min-width: 25vw;
+}
+
+.primarytext-6 {
+    min-width: 25vw;
+}
+
+.primarytext-7 {
+    min-width: 30vw;
+}
+
+.primarytext-8 {
+    min-width: 25vw;
+}
+
+.primarytext-9 {
+    min-width: 20vw;
+}
+
+.footnotes {
+    position: absolute;
+    bottom: 0px;
+    padding: 0px 0px 5px 0px;
+    align-items: flex-end;
+    transition: font-size 2s;
+}
+
+.personal {
+    margin: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 10.5pt;
+    padding: 0px 5px 0px 0px;
+    transition: font-size 2s;
+    /* opacity: 0; */
+}
+
+.personal:hover {
+    font-size: 12.5pt;
+}
+
+.footnote-text1 {
+    min-width: 45%;
+}
+
+.footnote-text2 {
+    min-width: 25%;
+}
+
+.footnote-text3 {
+    min-width: 30%;
+}
+
+.inline-icon1 {
+    vertical-align: middle;
+    width: 50px; 
+    height: 50%;
+}
+
+.inline-icon2 {
+    vertical-align: middle;
+    width: 35px; 
+    height: auto;
+    /* height: 50%; */
+}
+
+.inline-icon3 {
+    vertical-align: middle;
+    width: 15px; 
+    height: auto;
+}
+
+.inline-icon4 {
+    vertical-align: middle;
+    width: 30px; 
+    height: auto;
+    margin-left: 2px;
+}
+
+.inline-icon5 {
+    vertical-align: middle;
+    width: 50px; 
+    height: auto;
+}
