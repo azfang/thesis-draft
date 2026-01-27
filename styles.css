@@ -6,6 +6,10 @@
     display: flex;
 }
 
+.space {
+    min-width: 15%;
+}
+
 .primary {
     position: relative;
     margin: 5px;
@@ -29,35 +33,39 @@
 
 .primarytext-2 {
     /* padding: 5.25pt 0pt; */
-    min-width: 20vw;
+    min-width: 22vw;
 }
 
 .primarytext-3 {
-    min-width: 40.5vw;
+    min-width: 32vw;
 }
 
 .primarytext-4 {
-    min-width: 30vw;
+    min-width: 28vw;
+}
+
+.primarytext-short {
+    min-width: 15vw;
 }
 
 .primarytext-5 {
-    min-width: 25vw;
+    min-width: 20vw;
 }
 
 .primarytext-6 {
-    min-width: 25vw;
+    min-width: 18vw;
 }
 
 .primarytext-7 {
-    min-width: 30vw;
+    min-width: 32vw;
 }
 
 .primarytext-8 {
-    min-width: 25vw;
+    min-width: 30vw;
 }
 
 .primarytext-9 {
-    min-width: 20vw;
+    min-width: 25vw;
 }
 
 .footnotes {
@@ -117,7 +125,6 @@
     vertical-align: middle;
     width: 30px; 
     height: auto;
-    margin-left: 2px;
 }
 
 .inline-icon5 {
