@@ -45,11 +45,13 @@
 }
 
 .primarytext-4 {
-    min-width: 28vw;
+    min-width: 28.5vw;
 }
 
 .primarytext-short {
     min-width: 15vw;
+    font-size: 10.5pt;
+    margin: 5px;
 }
 
 .primarytext-5 {
@@ -204,6 +206,17 @@
 .inline-icon11 {
     vertical-align: top;
     width: 10px; 
+    height: auto;
+}
+
+.inline-icon12 {
+    vertical-align: top;
+    width: 15px; 
+    height: auto;
+}
+
+.scan1 {
+    width: 100%;
     height: auto;
 }
 
